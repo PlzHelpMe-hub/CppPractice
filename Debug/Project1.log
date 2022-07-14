@@ -1,0 +1,2 @@
+﻿  소스.cpp
+C:\Users\RyuGH\source\repos\Project1\Project1\소스.cpp(79): error C4700: 초기화되지 않은 'book' 지역 변수를 사용했습니다.
